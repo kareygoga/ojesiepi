@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohleikooy.bartoszantczak.com/sitemap.xml
